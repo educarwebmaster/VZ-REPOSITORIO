@@ -1,0 +1,338 @@
+fileFormatVersion: 2
+guid: bc9c6c73ed659544d8d364e04ff75ce1
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bone
+    100002: Bone.002
+    100004: Bone.002_end
+    100006: Bone.003
+    100008: Bone.003_end
+    100010: Bone.004
+    100012: Bone.004_end
+    100014: Cubo.001
+    100016: Cubo.002
+    100018: "Curva B\xE9zier"
+    100020: "C\xEDrculo"
+    100022: "C\xEDrculo.001"
+    100024: Esfera.001
+    100026: Esfera.002
+    100028: Esfera.003
+    100030: Esfera.005
+    100032: Esqueleto
+    100034: //RootNode
+    100036: Bone_002
+    100038: Bone_003
+    100040: Bone_004
+    100042: C_rculo
+    100044: C_rculo_001
+    100046: Cubo_001
+    100048: Cubo_002
+    100050: Curva_B_zier
+    100052: Esfera_001
+    100054: Esfera_002
+    100056: Esfera_003
+    100058: Esfera_005
+    400000: Bone
+    400002: Bone.002
+    400004: Bone.002_end
+    400006: Bone.003
+    400008: Bone.003_end
+    400010: Bone.004
+    400012: Bone.004_end
+    400014: Cubo.001
+    400016: Cubo.002
+    400018: "Curva B\xE9zier"
+    400020: "C\xEDrculo"
+    400022: "C\xEDrculo.001"
+    400024: Esfera.001
+    400026: Esfera.002
+    400028: Esfera.003
+    400030: Esfera.005
+    400032: Esqueleto
+    400034: //RootNode
+    400036: Bone_002
+    400038: Bone_003
+    400040: Bone_004
+    400042: C_rculo
+    400044: C_rculo_001
+    400046: Cubo_001
+    400048: Cubo_002
+    400050: Curva_B_zier
+    400052: Esfera_001
+    400054: Esfera_002
+    400056: Esfera_003
+    400058: Esfera_005
+    2300000: "Curva B\xE9zier"
+    2300002: Curva_B_zier
+    3300000: "Curva B\xE9zier"
+    3300002: Curva_B_zier
+    4300000: "Curva B\xE9zier"
+    4300002: Cubo.002
+    4300004: Esfera.002
+    4300006: Cubo.001
+    4300008: Esfera.003
+    4300010: Esfera.001
+    4300012: Esfera.005
+    4300014: "C\xEDrculo"
+    4300016: "C\xEDrculo.001"
+    4300018: Curva_B_zier
+    4300020: Cubo_002
+    4300022: Esfera_002
+    4300024: Cubo_001
+    4300026: Esfera_003
+    4300028: Esfera_001
+    4300030: Esfera_005
+    4300032: C_rculo
+    4300034: C_rculo_001
+    7400000: Esqueleto|EsqueletoAction
+    7400002: Esqueleto|EsqueletoAction.001
+    7400004: NORMAL
+    7400006: SALTAR
+    9500000: //RootNode
+    13700000: Cubo.001
+    13700002: Cubo.002
+    13700004: "C\xEDrculo"
+    13700006: "C\xEDrculo.001"
+    13700008: Esfera.001
+    13700010: Esfera.002
+    13700012: Esfera.003
+    13700014: Esfera.005
+    13700016: C_rculo
+    13700018: C_rculo_001
+    13700020: Cubo_001
+    13700022: Cubo_002
+    13700024: Esfera_001
+    13700026: Esfera_002
+    13700028: Esfera_003
+    13700030: Esfera_005
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CARA
+    second: {fileID: 2100000, guid: 76e8fbea849bdf64081738c78db16ad4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CORAZA
+    second: {fileID: 2100000, guid: ebe301f361055634bb2b6ba4502a072b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: INTERNO
+    second: {fileID: 2100000, guid: 7f48cbadbc784454fb754c1547b8a53e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LENTE
+    second: {fileID: 2100000, guid: 6cddd9a0048857a4c9ec31827b2dff5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LUZ
+    second: {fileID: 2100000, guid: 6062b3471a9304e4e8fa8147422ab72a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MANOS
+    second: {fileID: 2100000, guid: 44ba8f4bc15b6e64c9d0e9ef83efdc2b, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: NORMAL
+      takeName: EsqueletoAction_001
+      firstFrame: 6
+      lastFrame: 45
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_rculo
+        weight: 1
+      - path: C_rculo_001
+        weight: 1
+      - path: Cubo_001
+        weight: 1
+      - path: Cubo_002
+        weight: 1
+      - path: Curva_B_zier
+        weight: 1
+      - path: Esfera_001
+        weight: 1
+      - path: Esfera_002
+        weight: 1
+      - path: Esfera_003
+        weight: 1
+      - path: Esfera_005
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_003
+        weight: 1
+      - path: Esqueleto/Bone/Bone_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: SALTAR
+      takeName: EsqueletoAction_001
+      firstFrame: 113
+      lastFrame: 114
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: C_rculo
+        weight: 1
+      - path: C_rculo_001
+        weight: 1
+      - path: Cubo_001
+        weight: 1
+      - path: Cubo_002
+        weight: 1
+      - path: Curva_B_zier
+        weight: 1
+      - path: Esfera_001
+        weight: 1
+      - path: Esfera_002
+        weight: 1
+      - path: Esfera_003
+        weight: 1
+      - path: Esfera_005
+        weight: 1
+      - path: Esqueleto
+        weight: 1
+      - path: Esqueleto/Bone
+        weight: 1
+      - path: Esqueleto/Bone/Bone_002
+        weight: 1
+      - path: Esqueleto/Bone/Bone_003
+        weight: 1
+      - path: Esqueleto/Bone/Bone_004
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
