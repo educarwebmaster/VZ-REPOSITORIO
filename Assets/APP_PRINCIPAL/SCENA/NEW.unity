@@ -23254,7 +23254,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: de071d5efcda29a4faa25e29e7e45dcf, type: 3}
       Link_ANDROID: com.educar.expresatenat1
       Link_IOS: com.educar.expresatenat1
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Naturales 2
       Imagen_miapp: {fileID: 21300000, guid: e5a4d2ba28209764db02b0866ca61e00, type: 3}
       Link_ANDROID: com.educar.expresatenat2
@@ -23269,15 +23269,20 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: 061856617549e3e4aaf94c9f18b12f1a, type: 3}
       Link_ANDROID: com.educar.expresatenat4
       Link_IOS: com.educar.expresatenat4
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Naturales 5
       Imagen_miapp: {fileID: 21300000, guid: 557ffab95926e4c4ebd60a667703efa0, type: 3}
       Link_ANDROID: com.educar.expresatenat5
       Link_IOS: com.educar.expresatenat5
-      Enproduccion: 0
+      Enproduccion: 1
   - Serie_nombre: Expresate Lenguaje
     Serie_icono: {fileID: 21300000, guid: 9838f31fb4fb943439e5da80c8f33840, type: 3}
     Apps:
+    - Nombre: Lenguaje Inicial
+      Imagen_miapp: {fileID: 21300000, guid: 7d23e19299a384d43befebad2ad92ea3, type: 3}
+      Link_ANDROID: com.educar.expresatelen0
+      Link_IOS: com.educar.expresatelen0
+      Enproduccion: 0
     - Nombre: Lenguaje 1
       Imagen_miapp: {fileID: 21300000, guid: c4ef303a6ee8434408f1a5e1d4104f22, type: 3}
       Link_ANDROID: com.educar.expresatelen1
@@ -23303,10 +23308,35 @@ MonoBehaviour:
       Link_ANDROID: com.educar.expresatelen5
       Link_IOS: com.educar.expresatelen5
       Enproduccion: 0
-    - Nombre: Lenguaje Inicial
-      Imagen_miapp: {fileID: 21300000, guid: 7d23e19299a384d43befebad2ad92ea3, type: 3}
-      Link_ANDROID: com.educar.expresatelen0
-      Link_IOS: com.educar.expresatelen0
+    - Nombre: Lenguaje 6
+      Imagen_miapp: {fileID: 21300000, guid: d49b6eb41a1e3e04187425f53fac043f, type: 3}
+      Link_ANDROID: com.educar.vzunidad6
+      Link_IOS: com.educar.vzunidad6
+      Enproduccion: 0
+    - Nombre: Lenguaje 7
+      Imagen_miapp: {fileID: 21300000, guid: 3031f3dcedeb64a489b9740df97571b6, type: 3}
+      Link_ANDROID: com.educar.vzunidad7
+      Link_IOS: com.educar.vzunidad7
+      Enproduccion: 0
+    - Nombre: Lenguaje 8
+      Imagen_miapp: {fileID: 21300000, guid: adf2b127ae85f0a4f855b26a07b8c589, type: 3}
+      Link_ANDROID: com.educar.vzunidad8
+      Link_IOS: com.educar.vzunidad8
+      Enproduccion: 0
+    - Nombre: Lenguaje 9
+      Imagen_miapp: {fileID: 21300000, guid: 018bb33f0668a2b4f9859e173bc35059, type: 3}
+      Link_ANDROID: com.educar.vzunidad9
+      Link_IOS: com.educar.vzunidad9
+      Enproduccion: 0
+    - Nombre: Lenguaje 10
+      Imagen_miapp: {fileID: 21300000, guid: 19382ee152a9afe4fb174fd3da8a2ab3, type: 3}
+      Link_ANDROID: com.educar.vzunidad10
+      Link_IOS: com.educar.vzunidad10
+      Enproduccion: 0
+    - Nombre: Lenguaje 11
+      Imagen_miapp: {fileID: 21300000, guid: 938a0f522a7b9c44c8377732a0863dd0, type: 3}
+      Link_ANDROID: com.educar.vzunidad11
+      Link_IOS: com.educar.vzunidad11
       Enproduccion: 0
   - Serie_nombre: Heroes al rescate
     Serie_icono: {fileID: 21300000, guid: 62166f98591aa8747b3df80b758ccb8c, type: 3}
@@ -23331,7 +23361,7 @@ MonoBehaviour:
       Link_ANDROID: com.educar.plcaiman
       Link_IOS: com.educar.plcaiman
       Enproduccion: 0
-    - Nombre: Totuga
+    - Nombre: Tortuga
       Imagen_miapp: {fileID: 21300000, guid: 7f2e22552d6ce574a852ab563389ff32, type: 3}
       Link_ANDROID: com.educar.pltortuga
       Link_IOS: com.educar.pltortuga
@@ -23388,34 +23418,6 @@ MonoBehaviour:
       Link_IOS: com.educar.comprendematcuatro
       Enproduccion: 0
     - Nombre: Matematica 5
-      Imagen_miapp: {fileID: 21300000, guid: 36552727704564f43813556ede4bf37a, type: 3}
-      Link_ANDROID: com.educar.comprendematcinco
-      Link_IOS: com.educar.comprendematcinco
-      Enproduccion: 0
-  - Serie_nombre: Expresate Lector
-    Serie_icono: {fileID: 21300000, guid: ec53706b5d85808408d8b1c5834784c9, type: 3}
-    Apps:
-    - Nombre: Expresate Lector F
-      Imagen_miapp: {fileID: 21300000, guid: a5a62a40ca088d041b55e862a55196d2, type: 3}
-      Link_ANDROID: com.educar.comprendematuno
-      Link_IOS: com.educar.comprendematuno
-      Enproduccion: 0
-    - Nombre: Expresate Lector C1
-      Imagen_miapp: {fileID: 21300000, guid: bcb5ed357795cbe40a4787fa76d3d925, type: 3}
-      Link_ANDROID: com.educar.comprendematdos
-      Link_IOS: com.educar.comprendematdos
-      Enproduccion: 0
-    - Nombre: Expresate Lector C2
-      Imagen_miapp: {fileID: 21300000, guid: a4d7f9917b7e6c44ea851ae678067764, type: 3}
-      Link_ANDROID: com.educar.comprendemattres
-      Link_IOS: com.educar.comprendemattres
-      Enproduccion: 0
-    - Nombre: Expresate Lector C3
-      Imagen_miapp: {fileID: 21300000, guid: a0d4ec3ecaa19ae4ab9ee44528cac186, type: 3}
-      Link_ANDROID: com.educar.comprendematcuatro
-      Link_IOS: com.educar.comprendematcuatro
-      Enproduccion: 0
-    - Nombre: Expresate Lector C4
       Imagen_miapp: {fileID: 21300000, guid: 36552727704564f43813556ede4bf37a, type: 3}
       Link_ANDROID: com.educar.comprendematcinco
       Link_IOS: com.educar.comprendematcinco
@@ -25286,6 +25288,82 @@ Prefab:
     - target: {fileID: 100010, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
       propertyPath: m_Layer
       value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 100032, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100034, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100030, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100008, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100038, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100014, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100004, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100010, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100036, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100024, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100026, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100028, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100002, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100018, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100006, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100022, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100020, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 100012, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 6f035a5deb4ab9b4387a8a78fa36009f, type: 3}
