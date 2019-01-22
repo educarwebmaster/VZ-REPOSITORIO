@@ -607,7 +607,7 @@ MonoBehaviour:
   - {fileID: 244899367}
   - {fileID: 568220417}
   audio: {fileID: 48198249}
-  clip: {fileID: 8300000, guid: 8dc75b857939b8949b21d5d7267b1d16, type: 3}
+  clip: {fileID: 8300000, guid: 1921c18cebf60a44e8ba95cbc8568574, type: 3}
   chekAudios: {fileID: 219996336}
   chekAudion: {fileID: 2028619911}
   Maquina: {fileID: 1696773080}
@@ -724,7 +724,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 0}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.7
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -22895,7 +22895,7 @@ GameObject:
   - component: {fileID: 1999497727}
   - component: {fileID: 1999497729}
   m_Layer: 5
-  m_Name: APP
+  m_Name: Arreglo Aplicaciones
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -22985,7 +22985,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: fcf986d09426f394481d567bc19fac3f, type: 3}
       Link_ANDROID: com.educar.enlacecienciasocho
       Link_IOS: com.educar.enlacecienciasocho
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Naturales 9
       Imagen_miapp: {fileID: 21300000, guid: b5dc0f7b6b555d1438f3f2aed23361bd, type: 3}
       Link_ANDROID: com.educar.enlacecienciasnueve
@@ -23008,7 +23008,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: 906839ebbb4862342b785e36fd7dd06d, type: 3}
       Link_ANDROID: com.educar.vzmatematica3
       Link_IOS: com.educar.enlacecienciasseis
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Matematica 4
       Imagen_miapp: {fileID: 21300000, guid: e6bd5f2bd1c2ef945909f6b3c0290279, type: 3}
       Link_ANDROID: com.educar.vzmatematica4
@@ -23059,17 +23059,17 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: 7e0de002588e5bd48918a5c55f7abd23, type: 3}
       Link_ANDROID: com.educar.vectorzdreamupdos
       Link_IOS: com.educar.vectorzdreamupdos
-      Enproduccion: 1
+      Enproduccion: 0
     - Nombre: Dream Up 3
       Imagen_miapp: {fileID: 21300000, guid: 8d083c03c6acb21438526d194e5ea053, type: 3}
       Link_ANDROID: com.educar.vectorzdreamuptres
       Link_IOS: com.educar.vectorzdreamuptres
-      Enproduccion: 1
+      Enproduccion: 0
     - Nombre: Dream Up 4
       Imagen_miapp: {fileID: 21300000, guid: 6f1fd741e55e9204fa3facca178775e5, type: 3}
       Link_ANDROID: com.educar.vectorzdreamupcuatro
       Link_IOS: com.educar.vectorzdreamupcuatro
-      Enproduccion: 1
+      Enproduccion: 0
     - Nombre: Dream Up 5
       Imagen_miapp: {fileID: 21300000, guid: 517b5f0619809d04da459eb0b2ed4ca2, type: 3}
       Link_ANDROID: com.educar.vectorzdreamupcinco
@@ -23089,7 +23089,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: 1c2c7bd1a55be314fa4e13be12936b5f, type: 3}
       Link_ANDROID: com.educar.vectorzdreamupc
       Link_IOS: com.educar.vectorzdreamupc
-      Enproduccion: 1
+      Enproduccion: 0
   - Serie_nombre: Referencia
     Serie_icono: {fileID: 21300000, guid: 16f0b082d9f15144eb2940c89f25ba69, type: 3}
     Apps:
@@ -23112,7 +23112,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: a740de6e221f69b4ca96ec40810ddd1b, type: 3}
       Link_ANDROID: com.educar.cartillaung
       Link_IOS: com.educar.cartillaung
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Refleciones del Papa
       Imagen_miapp: {fileID: 21300000, guid: 88d6cfaf5f7bd8546af609153f3baf64, type: 3}
       Link_ANDROID: com.educar.papafrancisco
@@ -23132,7 +23132,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: 212cce03487af96469cb659f5ac5d427, type: 3}
       Link_ANDROID: com.educar.navidadpapaplus
       Link_IOS: com.educar.navidadpapaplus
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Navidad con el Papa
       Imagen_miapp: {fileID: 21300000, guid: ea88144d137ac874d891147b49873c4e, type: 3}
       Link_ANDROID: com.educar.navidadpapa
@@ -23145,7 +23145,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: 386f762ab84abc748aa0ab892d26fd12, type: 3}
       Link_ANDROID: com.educar.vzgiragiraA
       Link_IOS: com.educar.vzgiragiraA
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Gira Gira B
       Imagen_miapp: {fileID: 21300000, guid: 3786f8aa99846234ba428837904a0711, type: 3}
       Link_ANDROID: com.educar.vzgiragiraB
@@ -23155,7 +23155,7 @@ MonoBehaviour:
       Imagen_miapp: {fileID: 21300000, guid: ce2a853db50aaa34d982cfb786e8e691, type: 3}
       Link_ANDROID: com.educar.vzgiragiraC
       Link_IOS: com.educar.vzgiragiraC
-      Enproduccion: 0
+      Enproduccion: 1
     - Nombre: Gira Gira D
       Imagen_miapp: {fileID: 21300000, guid: 60a22cd84d51702409516849c3057ea7, type: 3}
       Link_ANDROID: com.educar.giragirad
